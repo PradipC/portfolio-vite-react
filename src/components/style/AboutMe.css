@@ -1,0 +1,27 @@
+/* AboutMe.css */
+.page-container {
+  max-width: 1140px; /* Adjust the maximum width as per your design */
+  margin: 0 auto; /* Center the container */
+  padding: 0 15px; /* Add padding to the sides */
+}
+
+.about-me-container {
+  padding: 20px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center horizontally */
+  text-align: center; /* Center text */
+}
+
+.profile-image img {
+  width: 125px;
+  height: 125px;
+  margin-bottom: 20px; /* Add margin below the image */
+}
+
+p {
+  line-height: 1.5;
+}
